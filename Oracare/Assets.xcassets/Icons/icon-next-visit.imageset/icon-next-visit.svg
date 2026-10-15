@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="AccessibilityScreen">
+<path d="M0 14C0 6.26801 6.26801 0 14 0H34C41.732 0 48 6.26801 48 14V34C48 41.732 41.732 48 34 48H14C6.26801 48 0 41.732 0 34V14Z" fill="#E0F2F1"/>
+<g id="Vector">
+<path d="M17 16H20H28H31C32.1046 16 33 16.8954 33 18V22V32C33 33.1046 32.1046 34 31 34H17C15.8954 34 15 33.1046 15 32V22V18C15 16.8954 15.8954 16 17 16Z" fill="#E0F2F1"/>
+<path d="M20 14V18M28 14V18M15 22H33M17 16H31C32.1046 16 33 16.8954 33 18V32C33 33.1046 32.1046 34 31 34H17C15.8954 34 15 33.1046 15 32V18C15 16.8954 15.8954 16 17 16Z" stroke="#00796B" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+</svg>
